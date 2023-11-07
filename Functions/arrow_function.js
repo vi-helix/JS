@@ -6,4 +6,4 @@ const sumArrow = (a, b) => {
 const multiply = (a, b) => a * b; // easy 
 
 console.log(sumArrow(34, 44));
-console.log(multiply(3, 4));
+console.log(multiply(3, 4)); 
